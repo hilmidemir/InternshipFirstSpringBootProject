@@ -42,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "A:/okul/narveri/firstInternshipProject/fullstack-backend",
+    "last_opened_file_path": "A:/okul/narveri/firstInternshipProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,6 +73,7 @@
       <workItem from="1689681612084" duration="5252000" />
       <workItem from="1689689333823" duration="663000" />
       <workItem from="1689690016601" duration="62000" />
+      <workItem from="1689691975228" duration="38000" />
     </task>
     <servers />
   </component>
